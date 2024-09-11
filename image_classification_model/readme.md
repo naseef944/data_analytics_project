@@ -26,9 +26,4 @@ Holds the output from the model training and evaluation:
   - `precision_recall_curve.png`: Precision-recall curve showing the trade-off between precision and recall.
   - `example_predictions.png`: Example images with true and predicted labels.
 
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/image_classification_project.git
 
