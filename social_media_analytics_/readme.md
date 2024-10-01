@@ -3,9 +3,9 @@
 This Tableau dashboard analyzes social media performance across different channels, segments, and target audiences. 
 
 ## Key Metrics:
-- **Total Clicks**: 2,77,04,587 
-- **Customer Acquisition Cost**: $630,691,055 
-- **Total Impressions**: 27,75,03,782 
+- **Total Clicks**
+- **Customer Acquisition Cost**
+- **Total Impressions**
 - **Target Audience Breakdown**: Includes insights into gender and age demographics.
 
 ## Customer Segments:
