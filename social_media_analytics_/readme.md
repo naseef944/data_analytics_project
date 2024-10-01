@@ -25,4 +25,4 @@ View the full report for an in-depth analysis of the project, including key insi
 ---
 
 ## Visual Preview:
-![Social Media Analytics Dashboard](https://github.com/naseef944/repositoryname/blob/main/Dashboard_screenshot.png)
+![Social Media Analytics Dashboard](https://github.com/naseef944/data_analytics_project/blob/main/Dashboard_screenshot.png)
