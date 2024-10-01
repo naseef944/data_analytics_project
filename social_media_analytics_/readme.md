@@ -23,3 +23,6 @@ This Tableau dashboard analyzes social media performance across different channe
 ### How to Open the Dashboard:
 Download the `.twbx` file and open it in Tableau Desktop.
 
+### Screenshot of the dashboard
+https://github.com/naseef944/data_analytics_project/blob/main/social_media_analytics_/Screenshot%202024-08-29%20123229.png?raw=true
+
