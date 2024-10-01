@@ -1,28 +1,28 @@
 # Social Media Analytics Dashboard
 
-This Tableau dashboard analyzes social media performance across different channels, segments, and target audiences. 
+This repository contains a Tableau project analyzing social media performance metrics across various channels, audience segments, and geographic regions.
 
-## Key Metrics:
+## Overview:
 - **Total Clicks**
-- **Customer Acquisition Cost**
-- **Total Impressions**
-- **Target Audience Breakdown**: Includes insights into gender and age demographics.
+- **Customer Acquisition Cost** 
+- **Total Impressions** 
 
-## Customer Segments:
-1. Foodies
-2. Tech Enthusiasts
-3. Health & Wellness
-4. Outdoor Adventurers
-5. Fashionistas
+### 📄 [Download the Full PDF Report](https://github.com/naseef944/data_analytics_project/blob/4425d49eb351254a837ba95edcc5d2b9cc3d2c8e/social_media_analytics_/social_media_Q1043263%20(4).pdf)
 
-## Visualizations:
-- **Clicks and Impressions Over Time**: Analysis by month
-- **Conversion Rates**: Conversion by customer segment and average rate
-- **Location Data**: Map with segment-specific click data
+View the full report for an in-depth analysis of the project, including key insights and visualizations.
 
-### How to Open the Dashboard:
-Download the `.twbx` file and open it in Tableau Desktop.
+### Key Components:
+1. **Clicks and Impressions Over Time**
+2. **Customer Segment Conversion Rates**
+3. **Audience Insights** by demographic
+4. **Geographic Click Distribution**
 
-### Screenshot of the dashboard
-![social_media_analytics_](https://github.com/naseef944/data_analytics_project/blob/88811d92c1ad14e0c9399aaaa979c50393b4b4e7/social_media_analytics_/Dashboard_screenshot.png)
+---
 
+## How to Explore the Project:
+**View the PDF Report**: The [PDF project report](https://github.com/naseef944/data_analytics_project/blob/4425d49eb351254a837ba95edcc5d2b9cc3d2c8e/social_media_analytics_/social_media_Q1043263%20(4).pdf) summarizes all key findings and metrics.
+
+---
+
+## Visual Preview:
+![Social Media Analytics Dashboard](https://github.com/username/repositoryname/blob/main/social_media_dashboard.png)
