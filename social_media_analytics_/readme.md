@@ -7,7 +7,7 @@ This repository contains a Tableau project analyzing social media performance me
 - **Customer Acquisition Cost** 
 - **Total Impressions** 
 
-### 📄 [Download the Full PDF Report](https://github.com/naseef944/data_analytics_project/blob/4425d49eb351254a837ba95edcc5d2b9cc3d2c8e/social_media_analytics_/social_media_Q1043263%20(4).pdf)
+### 📄 [Download the Full PDF Report] (https://github.com/naseef944/data_analytics_project/blob/main/social_media_analytics_/social_media_Q1043263%20(4).pdf)
 
 View the full report for an in-depth analysis of the project, including key insights and visualizations.
 
@@ -20,9 +20,9 @@ View the full report for an in-depth analysis of the project, including key insi
 ---
 
 ## How to Explore the Project:
-**View the PDF Report**: The [PDF project report](https://github.com/naseef944/data_analytics_project/blob/4425d49eb351254a837ba95edcc5d2b9cc3d2c8e/social_media_analytics_/social_media_Q1043263%20(4).pdf) summarizes all key findings and metrics.
+**View the PDF Report**: The [PDF project report](https://github.com/naseef944/data_analytics_project/blob/main/social_media_analytics_/social_media_Q1043263%20(4).pdf) summarizes all key findings and metrics.
 
 ---
 
 ## Visual Preview:
-![Social Media Analytics Dashboard](https://github.com/username/repositoryname/blob/main/social_media_dashboard.png)
+![Social Media Analytics Dashboard](https://github.com/naseef944/repositoryname/blob/main/Dashboard_screenshot.png)
