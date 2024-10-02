@@ -24,7 +24,7 @@ This project demonstrates the design and implementation of a stock exchange data
 ## Setup Instructions:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Stock-Exchange-DBMS.git
+   git clone https://github.com/naseef944/Stock_exchange_database.git
 2. Create the database schema in MySQL using the SQL scripts in sql_scripts/.
 3. Load the sample data using the provided scripts or insert your own data.
 4. Run Python scripts in src/ to interact with the database and perform analysis.
